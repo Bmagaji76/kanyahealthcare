@@ -11,3 +11,4 @@ pyttsx3
 deep-translator
 sqlalchemy
 psycopg2-binary
+python-3.9
